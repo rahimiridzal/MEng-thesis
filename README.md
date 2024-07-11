@@ -1,2 +1,2 @@
 # MEng Thesis
-Repository for MEng Electrical and Electronic Engineering Thesis at Imperial College London
+Final Year Project (Thesis) repository for MEng Electrical and Electronic Engineering at Imperial College London
