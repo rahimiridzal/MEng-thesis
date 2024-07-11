@@ -1,0 +1,8 @@
+﻿id,name,node,node_name,type,p_nom,cost,p_max,rate_per_load
+1,Denmark_DSR,1,Denmark,DSR,1757.770215,1000,1,0.2
+2,Estonia_DSR,2,Estonia,DSR,328.0340332,1000,1,0.2
+3,Finland_DSR,3,Finland,DSR,3795.089454,1000,1,0.2
+4,Latvia_DSR,4,Latvia,DSR,338.076954,1000,1,0.2
+5,Lithuania_DSR,5,Lithuania,DSR,449.970606,1000,1,0.2
+6,Sweden_DSR,6,Sweden,DSR,5289.168212,1000,1,0.2
+7,Norway_DSR,7,Norway,DSR,6270.897364,1000,1,0.2

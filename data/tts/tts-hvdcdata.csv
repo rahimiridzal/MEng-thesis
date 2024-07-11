@@ -1,0 +1,2 @@
+﻿id,f_zone,t_zone,f_bus,t_bus,km,r,rate,circuit,cost
+1,1,2,3,4,100,0.1,1000,0,100000000

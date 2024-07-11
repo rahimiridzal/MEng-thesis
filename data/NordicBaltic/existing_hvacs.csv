@@ -1,0 +1,7 @@
+﻿id,name,f_node,f_node_name,t_node,t_node_name,f_area,f_area_name,t_area,t_area_name,existing_capacity,efficiency
+1,link_NO_SE,7,Norway,6,Sweden,1,Nordic,1,Nordic,3787,1
+2,line_SE_DK,6,Sweden,1,Denmark,1,Nordic,1,Nordic,507,1
+3,line_LV_EE,4,Latvia,2,Estonia,2,Baltic,2,Baltic,1159,1
+4,line_LT_LV,5,Lithuania,4,Latvia,2,Baltic,2,Baltic,910,1
+5,line_FI_NO,3,Finland,7,Norway,1,Nordic,1,Nordic,120,1
+6,line_FI_SE,3,Finland,6,Sweden,1,Nordic,1,Nordic,2607,1

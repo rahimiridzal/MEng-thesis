@@ -1,0 +1,80 @@
+﻿id,name_id,name,node,node_name,carrier,type,pmax,encost,rucost,rdcost,efficiency,pu_max,pu_min,area
+1,Esbjerg1_GAS,Esbjerg Reserve power station,1,Denmark,Gas,Gas,25,118.93,29.7325,29.7325,0.35,1,0,1
+2,Grenaa1_GAS,Grenaa Reserve power station,1,Denmark,Gas,Gas,25,118.93,29.7325,29.7325,0.35,1,0,1
+3,IRU_GAS,IRU Elektrijaam power station,2,Estonia,Gas,Gas,173,92.5,23.125,23.125,0.45,1,0,2
+4,Lietuvos1_GAS,Lietuvos power station,5,Lithuania,Gas,Gas,300,118.93,29.7325,29.7325,0.35,1,0,2
+5,Lietuvos2_GAS,Lietuvos power station,5,Lithuania,Gas,Gas,300,118.93,29.7325,29.7325,0.35,1,0,2
+6,Lietuvos3_GAS,Lietuvos power station,5,Lithuania,Gas,Gas,445,75.68,18.92,18.92,0.55,1,0,2
+7,Fyns7_GAS,Fyns power station,1,Denmark,Gas,Gas,362,75.7,18.925,18.925,0.55,1,0,1
+8,Hammerfest_GAS,Hammerfest Snohvit Terminal power station,7,Norway,Gas,Gas,229,75.7,18.925,18.925,0.55,1,0,1
+9,Hillerød1_GAS_CHP,Hillerød power station,1,Denmark,Gas,Gas CHP,75,81.5,20.375,20.375,0.51,1,0,1
+10,Horsens1_GAS_CHP,Horsens power station,1,Denmark,Gas,Gas CHP,93,81.5,20.375,20.375,0.51,1,0,1
+11,Silkeborgvaerket1_GAS_CHP,Silkeborgvaerket power station,1,Denmark,Gas,Gas CHP,108,81.5,20.375,20.375,0.51,1,0,1
+12,Hjørring1_GAS_CHP,Hjørring cogeneration power station,1,Denmark,Gas,Gas CHP,59,81.5,20.375,20.375,0.51,1,0,1
+13,Viborg1_GAS_CHP,Viborg power station,1,Denmark,Gas,Gas CHP,55,81.5,20.375,20.375,0.51,1,0,1
+14,SønderborgGT1_GAS_CHP,Sønderborg Kraftvarmeværk CHP power station,1,Denmark,Gas,Gas CHP,52,81.5,20.375,20.375,0.51,1,0,1
+15,VuosaariA_GAS_CHP,Vuosaari power station,3,Finland,Gas,Gas CHP,163,81.5,20.375,20.375,0.51,1,0,1
+16,Nokia1_GAS_CHP,Nokia kombi power station,3,Finland,Gas,Gas CHP,72,81.5,20.375,20.375,0.51,1,0,1
+17,VuosaariB_GAS_CHP,Vuosaari power station,3,Finland,Gas,Gas CHP,485,81.5,20.375,20.375,0.51,1,0,1
+18,Kotkan1_GAS_CHP,Kotkan Hovinsaari power station,3,Finland,Gas,Gas CHP,46,81.5,20.375,20.375,0.51,1,0,1
+19,Suomenoja2_GAS_CHP,Suomenoja power station,3,Finland,Gas,Gas CHP,234,81.5,20.375,20.375,0.51,1,0,1
+20,KymijarviGT1_GAS_CHP,Kymijarvi power station,3,Finland,Gas,Gas CHP,45,81.5,20.375,20.375,0.51,1,0,1
+21,Vantaan1_GAS_CHP,Vantaan Energia power station,3,Finland,Gas,Gas CHP,81,81.5,20.375,20.375,0.51,1,0,1
+22,Porvoo3_GAS_CHP,Porvoo power station,3,Finland,Gas,Gas CHP,48,81.5,20.375,20.375,0.51,1,0,1
+23,Mertaniemi1 & 2_GAS_CHP,Mertaniemi power station,3,Finland,Gas,Gas CHP,102,81.5,20.375,20.375,0.51,1,0,1
+24,Naistenlahti1_GAS_CHP,Naistenlahti power station,3,Finland,Gas,Gas CHP,129,81.5,20.375,20.375,0.51,1,0,1
+25,Porvoo2_GAS_CHP,Porvoo power station,3,Finland,Gas,Gas CHP,121,81.5,20.375,20.375,0.51,1,0,1
+26,Imanta1_GAS_CHP,Imanta power station,4,Latvia,Gas,Gas CHP,48,81.5,20.375,20.375,0.51,1,0,2
+27,Riga-21_GAS_CHP,Riga-2 power station,4,Latvia,Gas,Gas CHP,441,81.5,20.375,20.375,0.51,1,0,2
+28,Riga-22_GAS_CHP,Riga-2 power station,4,Latvia,Gas,Gas CHP,440,81.5,20.375,20.375,0.51,1,0,2
+29,Kaunus2_GAS_CHP,Kaunus power station,5,Lithuania,Gas,Gas CHP,150,79.2,19.8,19.8,0.51,1,0,2
+30,Rya1_GAS_CHP,Rya Göteborg power station,6,Sweden,Gas,Gas CHP,250,81.5,20.375,20.375,0.51,1,0,1
+31,Lulea1_GAS_CHP,Lulea power station,6,Sweden,Gas,Gas CHP,100,81.5,20.375,20.375,0.51,1,0,1
+32,Stjarnvik1_GAS_CHP,Stjarnvik power station,6,Sweden,Gas,Gas CHP,60,81.5,20.375,20.375,0.51,1,0,1
+33,Mongstad1_GAS_CHP,Mongstad power station,7,Norway,Gas,Gas CHP,294,81.5,20.375,20.375,0.51,1,0,1
+34,Denmark_Oil,Denmark_Oil,1,Denmark,Oil,Oil,418.32,145.0242644,36.2560661,36.2560661,0.37,1,0,1
+35,Estonia_Oil,Estonia_Oil,2,Estonia,Oil,Oil,846.86,145.0242644,36.2560661,36.2560661,0.37,1,0,2
+36,Finland_Oil,Finland_Oil,3,Finland,Oil,Oil,25.74,145.0242644,36.2560661,36.2560661,0.37,1,0,1
+37,Sweden_Oil,Sweden_Oil,6,Sweden,Oil,Oil,1403.2,145.0242644,36.2560661,36.2560661,0.37,1,0,1
+38,Denmark_OIL_CHP,Denmark_OIL_CHP,1,Denmark,Oil,Oil CHP,245.68,145.02,36.255,36.255,0.37,1,0,1
+39,Estonia_OIL_CHP,Estonia_OIL_CHP,2,Estonia,Oil,Oil CHP,994.14,145.02,36.255,36.255,0.37,1,0,2
+40,Finland_OIL_CHP,Finland_OIL_CHP,3,Finland,Oil,Oil CHP,832.26,145.02,36.255,36.255,0.37,1,0,1
+41,Sweden_OIL_CHP,Sweden_OIL_CHP,6,Sweden,Oil,Oil CHP,646.8,145.02,36.255,36.255,0.37,1,0,1
+42,FI-2-2,Suomenoja 2,3,Finland,Hard coal,Coal,80,107.3663581,26.84158953,26.84158953,0.32,1,0,1
+43,FI-21-1,Meri-Pori 1,3,Finland,Hard coal,Coal,614,103.2817628,25.8204407,25.8204407,0.36,1,0,1
+44,Loviisa1_NUCLEAR,Loviisa 1,3,Finland,Nuclear,Nuclear,507,25,6.25,6.25,0.4,1,0.4,1
+45,Olkiluoto1_NUCLEAR,Olkiluoto 1,3,Finland,Nuclear,Nuclear,890,25,6.25,6.25,0.4,1,0.4,1
+46,Olkiluoto2_NUCLEAR,Olkiluoto 2,3,Finland,Nuclear,Nuclear,890,25,6.25,6.25,0.4,1,0.4,1
+47,Olkiluoto3_NUCLEAR,Olkiluoto 3,3,Finland,Nuclear,Nuclear,1600,25,6.25,6.25,0.4,1,0.4,1
+48,Loviisa2_NUCLEAR,Loviisa 2,3,Finland,Nuclear,Nuclear,507,25,6.25,6.25,0.4,1,0.4,1
+49,Forsmark1_NUCLEAR,Forsmark 1,6,Sweden,Nuclear,Nuclear,990,25,6.25,6.25,0.4,1,0.4,1
+50,Forsmark2_NUCLEAR,Forsmark 2,6,Sweden,Nuclear,Nuclear,1121,25,6.25,6.25,0.4,1,0.4,1
+51,Forsmark3_NUCLEAR,Forsmark 3,6,Sweden,Nuclear,Nuclear,1172,25,6.25,6.25,0.4,1,0.4,1
+52,Oskarshamn3_NUCLEAR,Oskarshamn 3,6,Sweden,Nuclear,Nuclear,1400,25,6.25,6.25,0.4,1,0.4,1
+53,Ringhals3_NUCLEAR,Ringhals 3,6,Sweden,Nuclear,Nuclear,1072,25,6.25,6.25,0.4,1,0.4,1
+54,Ringhals4_NUCLEAR,Ringhals 4,6,Sweden,Nuclear,Nuclear,1130,25,6.25,6.25,0.4,1,0.4,1
+55,Denmark_RES_CHP,Denmark_RES_CHP,1,Denmark,Other RES,Res CHP,85.176,0.02,0.005,0.005,0.3,1,0,1
+56,Finland_RES_CHP,Finland_RES_CHP,3,Finland,Other RES,Res CHP,306.264,0.02,0.005,0.005,0.3,1,0,1
+57,Latvia_RES_CHP,Latvia_RES_CHP,4,Latvia,Other RES,Res CHP,182.616,0.02,0.005,0.005,0.3,1,0,2
+58,Lithuania_RES_CHP,Lithuania_RES_CHP,5,Lithuania,Other RES,Res CHP,31.08,0.02,0.005,0.005,0.3,1,0,2
+59,Sweden_RES_CHP,Sweden_RES_CHP,6,Sweden,Other RES,Res CHP,89.376,0.02,0.005,0.005,0.3,1,0,1
+60,Denmark_Biomass,Denmark_Biomass,1,Denmark,Biomass,Biomass,1860.827002,2,0.5,0.5,0.3,1,0,1
+61,Estonia_Biomass,Estonia_Biomass,2,Estonia,Biomass,Biomass,155.000001,2,0.5,0.5,0.3,1,0,2
+62,Finland_Biomass,Finland_Biomass,3,Finland,Biomass,Biomass,2476.999998,2,0.5,0.5,0.3,1,0,1
+63,Latvia_Biomass,Latvia_Biomass,4,Latvia,Biomass,Biomass,57.999998,2,0.5,0.5,0.3,1,0,2
+64,Lithuania_Biomass,Lithuania_Biomass,5,Lithuania,Biomass,Biomass,111.066997,2,0.5,0.5,0.3,1,0,2
+65,Sweden_Biomass,Sweden_Biomass,6,Sweden,Biomass,Biomass,4090,2,0.5,0.5,0.3,1,0,1
+66,Norway_Biomass,Norway_Biomass,7,Norway,Biomass,Biomass,27,2,0.5,0.5,0.3,1,0,1
+67,Denmark_Biogas,Denmark_Biogas,1,Denmark,Biogas,Biogas,119.172998,1.5,0.375,0.375,0.36,1,0,1
+68,Estonia_Biogas,Estonia_Biogas,2,Estonia,Biogas,Biogas,11,1.5,0.375,0.375,0.36,1,0,2
+69,Finland_Biogas,Finland_Biogas,3,Finland,Biogas,Biogas,115.999997,1.5,0.375,0.375,0.36,1,0,1
+70,Latvia_Biogas,Latvia_Biogas,4,Latvia,Biogas,Biogas,37,1.5,0.375,0.375,0.36,1,0,2
+71,Lithuania_Biogas,Lithuania_Biogas,5,Lithuania,Biogas,Biogas,60.245998,1.5,0.375,0.375,0.36,1,0,2
+72,Sweden_Biogas,Sweden_Biogas,6,Sweden,Biogas,Biogas,2,1.5,0.375,0.375,0.36,1,0,1
+73,Norway_Biogas,Norway_Biogas,7,Norway,Biogas,Biogas,7,1.5,0.375,0.375,0.36,1,0,1
+74,Denmark_Other_RES,Denmark_Other_RES,1,Denmark,Other RES,Other RES,176.458001,0.02,0.005,0.005,0.71,1,0,1
+75,Estonia_Other_RES,Estonia_Other_RES,2,Estonia,Other RES,Other RES,82.999997,0.02,0.005,0.005,0.71,1,0,2
+76,Finland_Other_RES,Finland_Other_RES,3,Finland,Other RES,Other RES,196.999997,0.02,0.005,0.005,0.71,1,0,1
+77,Latvia_Other_RES,Latvia_Other_RES,4,Latvia,Other RES,Other RES,35.999998,0.02,0.005,0.005,0.71,1,0,2
+78,Sweden_Other_RES,Sweden_Other_RES,6,Sweden,Other RES,Other RES,622.500002,0.02,0.005,0.005,0.71,1,0,1
+79,Norway_Other_RES,Norway_Other_RES,7,Norway,Other RES,Other RES,43,0.02,0.005,0.005,0.71,1,0,1

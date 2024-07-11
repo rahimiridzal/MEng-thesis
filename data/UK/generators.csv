@@ -1,0 +1,94 @@
+﻿id,name_id,name,bus,bus_name,carrier,type,pmax,cost,efficiency,pu_max,pu_min
+1,Peterborough_GAS,Peterborough Power Station,6,EN_East,Gas,Gas,245,184.3837098,0.35,1,0
+2,KingsLynn_GAS,Kings Lynn,6,EN_East,Gas,Gas,395,184.3837098,0.35,1,0
+3,GreatYarmouth_GAS,Great Yarmouth,6,EN_East,Hydrogen,Gas,420,47.74535809,0.55,1,0
+4,SuttonBridge_GAS,SUTTON BRIDGE POWER GENERATION,4,EN_EastMidlands,Gas,Gas,819,184.3837098,0.35,1,0
+5,Staythorpe_GAS,Staythorpe,4,EN_EastMidlands,Gas,Gas,1772,117.3350881,0.55,1,0
+6,WestBurton_GAS,West Burton CCGT,4,EN_EastMidlands,Hydrogen,Gas,1332,47.74535809,0.55,1,0
+7,Cottam_GAS,Cottam Development Centre,4,EN_EastMidlands,Gas,Gas,445,184.3837098,0.35,1,0
+8,Enfield_GAS,Enfield,7,EN_London,Gas,Gas,408,184.3837098,0.35,1,0
+9,SealSands_GAS,Seal Sands,1,EN_NorthEast,Gas,Gas,55,184.3837098,0.35,1,0
+10,Rocksavage_GAS,Rocksavage Power Company Ltd,2,EN_NorthWest,Gas,Gas,810,184.3837098,0.35,1,0
+11,Cheshire_GAS,Cheshire,2,EN_NorthWest,Gas,Gas,40,184.3837098,0.35,1,0
+12,Coryton_GAS,Coryton Energy Company Ltd,8,EN_SouthEast,Hydrogen,Gas,800,47.74535809,0.55,1,0
+13,Marchwood_GAS,Marchwood Power,8,EN_SouthEast,Hydrogen,Gas,898,47.74535809,0.55,1,0
+14,Didcot_GAS,Didcot B,8,EN_SouthEast,Gas,Gas,1450,184.3837098,0.35,1,0
+15,Hythe_GAS,Hythe,8,EN_SouthEast,Gas,Gas,44,184.3837098,0.35,1,0
+16,Burghfield_GAS,Burghfield,8,EN_SouthEast,Gas,Gas,50,184.3837098,0.35,1,0
+17,DamheadCreek_GAS,Damhead Creek,8,EN_SouthEast,Hydrogen,Gas,805,47.74535809,0.55,1,0
+18,Chickerell_GAS,Chickerell,9,EN_SouthWest,Gas,Gas,50,184.3837098,0.35,1,0
+19,Chippenham_GAS,Chippenham,9,EN_SouthWest,Gas,Gas,10.07,184.3837098,0.35,1,0
+20,Baglan_GAS,Baglan Generating Ltd,10,EN_Wales,Gas CCS,Gas,520,89.14,0.5,1,0
+21,Pembroke_GAS,Pembroke,10,EN_Wales,Gas,Gas,2199,117.3350881,0.55,1,0
+22,ConnahsQuay_GAS,Connahs Quay,10,EN_Wales,Gas CCS,Gas,1200,89.14,0.5,1,0
+23,GlanfordBigg_GAS,Glanford Brigg,3,EN_Yorkshire,Gas,Gas,99,184.3837098,0.35,1,0
+24,SHB_GAS,EP SHB Ltd,3,EN_Yorkshire,Gas,Gas,1365,184.3837098,0.35,1,0
+25,Grimsby_GAS,Grimsby,3,EN_Yorkshire,Gas,Gas,20,184.3837098,0.35,1,0
+26,Killingholme_GAS,Killingholme,3,EN_Yorkshire,Gas,Gas,600,184.3837098,0.35,1,0
+27,PeterheadCCS_GAS,Peterhead CCS,11,Scotland,Gas CCS,Gas,900,89.14,0.5,1,0
+28,VPI_GAS_CHP,VPI CHP power plant,3,EN_Yorkshire,Hydrogen,Gas CHP,939,47.74535809,0.51,1,0
+29,Grain_GAS_CHP,Grain CHP power plant,8,EN_SouthEast,Hydrogen,Gas CHP,1137.75,47.74535809,0.51,1,0
+30,Fellside_Hydrogen_CHP,Fellside CHP power plant,2,EN_NorthWest,Hydrogen,Gas CHP,155,47.74535809,0.51,1,0
+31,Heysham2_NUCLEAR,Heysham 2,2,EN_NorthWest,Nuclear,Nuclear,1240,5,0.4,0.95,0.4
+32,SizewellB_NUCLEAR,Sizewell B,6,EN_East,Nuclear,Nuclear,1198,5,0.4,0.95,0.4
+33,HinkleyPointC_NUCLEAR,Hinkley Point C,9,EN_SouthWest,Nuclear,Nuclear,3200,5,0.45,0.95,0.4
+34,EN_NorthEast_Biomass,EN_NorthEast_Biomass,1,EN_NorthEast,Biomass,Biomass,#REF!,2,0.3,0.9,0
+35,EN_NorthWest_Biomass,EN_NorthWest_Biomass,2,EN_NorthWest,Biomass,Biomass,#REF!,2,0.3,0.9,0
+36,EN_Yorkshire_Biomass,EN_Yorkshire_Biomass,3,EN_Yorkshire,Biomass,Biomass,#REF!,2,0.3,0.9,0
+37,EN_EastMidlands_Biomass,EN_EastMidlands_Biomass,4,EN_EastMidlands,Biomass,Biomass,#REF!,2,0.3,0.9,0
+38,EN_WestMidlands_Biomass,EN_WestMidlands_Biomass,5,EN_WestMidlands,Biomass,Biomass,#REF!,2,0.3,0.9,0
+39,EN_East_Biomass,EN_East_Biomass,6,EN_East,Biomass,Biomass,#REF!,2,0.3,0.9,0
+40,EN_London_Biomass,EN_London_Biomass,7,EN_London,Biomass,Biomass,#REF!,2,0.3,0.9,0
+41,EN_SouthEast_Biomass,EN_SouthEast_Biomass,8,EN_SouthEast,Biomass,Biomass,#REF!,2,0.3,0.9,0
+42,EN_SouthWest_Biomass,EN_SouthWest_Biomass,9,EN_SouthWest,Biomass,Biomass,#REF!,2,0.3,0.9,0
+43,EN_Wales_Biomass,EN_Wales_Biomass,10,EN_Wales,Biomass,Biomass,#REF!,2,0.3,0.9,0
+44,Scotland_Biomass,Scotland_Biomass,11,Scotland,Biomass,Biomass,#REF!,2,0.3,0.9,0
+45,NorthernIreland_Biomass,NorthernIreland_Biomass,12,NorthernIreland,Biomass,Biomass,#REF!,2,0.3,0.9,0
+46,EN_NorthEast_BECCS,EN_NorthEast_BECCS,1,EN_NorthEast,BECCS,Biomass,#REF!,0,0.3,0.9,0
+47,EN_NorthWest_BECCS,EN_NorthWest_BECCS,2,EN_NorthWest,BECCS,Biomass,#REF!,0,0.3,0.9,0
+48,EN_Yorkshire_BECCS,EN_Yorkshire_BECCS,3,EN_Yorkshire,BECCS,Biomass,#REF!,0,0.3,0.9,0
+49,EN_EastMidlands_BECCS,EN_EastMidlands_BECCS,4,EN_EastMidlands,BECCS,Biomass,#REF!,0,0.3,0.9,0
+50,EN_WestMidlands_BECCS,EN_WestMidlands_BECCS,5,EN_WestMidlands,BECCS,Biomass,#REF!,0,0.3,0.9,0
+51,EN_East_BECCS,EN_East_BECCS,6,EN_East,BECCS,Biomass,#REF!,0,0.3,0.9,0
+52,EN_London_BECCS,EN_London_BECCS,7,EN_London,BECCS,Biomass,#REF!,0,0.3,0.9,0
+53,EN_SouthEast_BECCS,EN_SouthEast_BECCS,8,EN_SouthEast,BECCS,Biomass,#REF!,0,0.3,0.9,0
+54,EN_SouthWest_BECCS,EN_SouthWest_BECCS,9,EN_SouthWest,BECCS,Biomass,#REF!,0,0.3,0.9,0
+55,EN_Wales_BECCS,EN_Wales_BECCS,10,EN_Wales,BECCS,Biomass,#REF!,0,0.3,0.9,0
+56,Scotland_BECCS,Scotland_BECCS,11,Scotland,BECCS,Biomass,#REF!,0,0.3,0.9,0
+57,NorthernIreland_BECCS,NorthernIreland_BECCS,12,NorthernIreland,BECCS,Biomass,#REF!,0,0.3,0.9,0
+58,EN_NorthEast_Biogas,EN_NorthEast_Biogas,1,EN_NorthEast,Biogas,Biogas,62.394,1.5,0.36,0.9,0
+59,EN_NorthWest_Biogas,EN_NorthWest_Biogas,2,EN_NorthWest,Biogas,Biogas,192.983,1.5,0.36,0.9,0
+60,EN_Yorkshire_Biogas,EN_Yorkshire_Biogas,3,EN_Yorkshire,Biogas,Biogas,102.819,1.5,0.36,0.9,0
+61,EN_EastMidlands_Biogas,EN_EastMidlands_Biogas,4,EN_EastMidlands,Biogas,Biogas,136.149,1.5,0.36,0.9,0
+62,EN_WestMidlands_Biogas,EN_WestMidlands_Biogas,5,EN_WestMidlands,Biogas,Biogas,109.061,1.5,0.36,0.9,0
+63,EN_East_Biogas,EN_East_Biogas,6,EN_East,Biogas,Biogas,242.2451,1.5,0.36,0.9,0
+64,EN_London_Biogas,EN_London_Biogas,7,EN_London,Biogas,Biogas,65.794,1.5,0.36,0.9,0
+65,EN_SouthEast_Biogas,EN_SouthEast_Biogas,8,EN_SouthEast,Biogas,Biogas,215.055,1.5,0.36,0.9,0
+66,EN_SouthWest_Biogas,EN_SouthWest_Biogas,9,EN_SouthWest,Biogas,Biogas,146.85468,1.5,0.36,0.9,0
+67,EN_Wales_Biogas,EN_Wales_Biogas,10,EN_Wales,Biogas,Biogas,75.941,1.5,0.36,0.9,0
+68,Scotland_Biogas,Scotland_Biogas,11,Scotland,Biogas,Biogas,143.86,1.5,0.36,0.9,0
+69,NorthernIreland_Biogas,NorthernIreland_Biogas,12,NorthernIreland,Biogas,Biogas,83.91289,1.5,0.36,0.9,0
+70,EN_NorthEast_CHP_Biogas,EN_NorthEast_CHP_Biogas,1,EN_NorthEast,Biogas,Biogas,21.5,1.5,0.32,1,0
+71,EN_NorthWest_CHP_Biogas,EN_NorthWest_CHP_Biogas,2,EN_NorthWest,Biogas,Biogas,10,1.5,0.32,1,0
+72,EN_Yorkshire_CHP_Biogas,EN_Yorkshire_CHP_Biogas,3,EN_Yorkshire,Biogas,Biogas,40.5,1.5,0.32,1,0
+73,EN_EastMidlands_CHP_Biogas,EN_EastMidlands_CHP_Biogas,4,EN_EastMidlands,Biogas,Biogas,20.5,1.5,0.32,1,0
+74,EN_WestMidlands_CHP_Biogas,EN_WestMidlands_CHP_Biogas,5,EN_WestMidlands,Biogas,Biogas,25.8,1.5,0.32,1,0
+75,EN_East_CHP_Biogas,EN_East_CHP_Biogas,6,EN_East,Biogas,Biogas,37.2,1.5,0.32,1,0
+76,EN_London_CHP_Biogas,EN_London_CHP_Biogas,7,EN_London,Biogas,Biogas,17.4,1.5,0.32,1,0
+77,EN_SouthEast_CHP_Biogas,EN_SouthEast_CHP_Biogas,8,EN_SouthEast,Biogas,Biogas,20.9,1.5,0.32,1,0
+78,EN_SouthWest_CHP_Biogas,EN_SouthWest_CHP_Biogas,9,EN_SouthWest,Biogas,Biogas,22.5,1.5,0.32,1,0
+79,EN_Wales_CHP_Biogas,EN_Wales_CHP_Biogas,10,EN_Wales,Biogas,Biogas,1,1.5,0.32,1,0
+80,Scotland_CHP_Biogas,Scotland_CHP_Biogas,11,Scotland,Biogas,Biogas,32.4,1.5,0.32,1,0
+81,NorthernIreland_CHP_Biogas,NorthernIreland_CHP_Biogas,12,NorthernIreland,Biogas,Biogas,4.8,1.5,0.32,1,0
+82,EN_NorthEast_CHP_Biomass,EN_NorthEast_CHP_Biomass,1,EN_NorthEast,Biomass,Biomass,35.64822766,2,0.32,1,0
+83,EN_NorthWest_CHP_Biomass,EN_NorthWest_CHP_Biomass,2,EN_NorthWest,Biomass,Biomass,162.0640165,2,0.32,1,0
+84,EN_Yorkshire_CHP_Biomass,EN_Yorkshire_CHP_Biomass,3,EN_Yorkshire,Biomass,Biomass,102.7723032,2,0.32,1,0
+85,EN_EastMidlands_CHP_Biomass,EN_EastMidlands_CHP_Biomass,4,EN_EastMidlands,Biomass,Biomass,64.63528753,2,0.32,1,0
+86,EN_WestMidlands_CHP_Biomass,EN_WestMidlands_CHP_Biomass,5,EN_WestMidlands,Biomass,Biomass,7.100365674,2,0.32,1,0
+87,EN_East_CHP_Biomass,EN_East_CHP_Biomass,6,EN_East,Biomass,Biomass,39.23501032,2,0.32,1,0
+88,EN_London_CHP_Biomass,EN_London_CHP_Biomass,7,EN_London,Biomass,Biomass,102.3331053,2,0.32,1,0
+89,EN_SouthEast_CHP_Biomass,EN_SouthEast_CHP_Biomass,8,EN_SouthEast,Biomass,Biomass,85.27758773,2,0.32,1,0
+90,EN_SouthWest_CHP_Biomass,EN_SouthWest_CHP_Biomass,9,EN_SouthWest,Biomass,Biomass,19.91030375,2,0.32,1,0
+91,EN_Wales_CHP_Biomass,EN_Wales_CHP_Biomass,10,EN_Wales,Biomass,Biomass,36.74622235,2,0.32,1,0
+92,Scotland_CHP_Biomass,Scotland_CHP_Biomass,11,Scotland,Biomass,Biomass,76.12763197,2,0.32,1,0
+93,NorthernIreland_CHP_Biomass,NorthernIreland_CHP_Biomass,12,NorthernIreland,Biomass,Biomass,12.80993807,2,0.32,1,0
